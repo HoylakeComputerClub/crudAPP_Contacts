@@ -1,0 +1,21 @@
+.contactCard {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid gray;
+    border-radius: 7px;
+    margin: 10px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+.contactCard .btnOne {
+    color: white;
+    padding: 10px;
+    background-color: cadetblue;
+    border-radius: 8px;
+}
+
+.contactCard .btnOne:hover {
+    color: gray;
+    background-color: aliceblue;
+}
